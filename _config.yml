@@ -37,8 +37,8 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 
 footer_content: "Copyright &copy; Best"
 
-plugins:
-  - jekyll-default-layout
+#plugins:
+#  - jekyll-default-layout
 
 callouts_level: quiet # or loud
 callouts:

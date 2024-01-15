@@ -1,7 +1,7 @@
 ---
-title: F2F Legacy
+title: F2F Legacy - Home
 layout: default
-nav_order: 1
+nav_order: 2
 parent: f2f-legacy
 has_children: true
 ---

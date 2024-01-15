@@ -2,6 +2,6 @@
 layout: default
 title: Commands - Help
 grand_parent: f2f-legacy
-parent: F2F Legacy
+parent: f2f-legacy
 ---
 to be filled out

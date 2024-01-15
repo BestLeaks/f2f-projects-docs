@@ -8,9 +8,10 @@ aux_links:
   Feedback: https://github.com/BestLeaks/Fears-to-Fathom-Best-Projects
   F2F Discord: https://discord.gg/fears-to-fathom
 
-  nav_external_links:
-  - title: Docs Feedback
-    url: https://github.com/BestLeaks/Fears-to-Fathom-Best-Projects
+# not working
+#  nav_external_links:
+#  - title: Docs Feedback
+#    url: https://github.com/BestLeaks/Fears-to-Fathom-Best-Projects
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
